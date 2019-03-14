@@ -1,0 +1,4 @@
+Manifest-Version: 1.0
+Main-Class: com.huanghy.idcard_last_number_validate.IDcardLastNumValid
+ ateMain
+

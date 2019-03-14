@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="develop-helper:jar">
+    <output-path>$PROJECT_DIR$/target</output-path>
+    <root id="archive" name="develop-helper.jar">
+      <element id="module-output" name="develop-helper" />
+    </root>
+  </artifact>
+</component>
